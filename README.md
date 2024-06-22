@@ -6,3 +6,4 @@ The target variable (y) has three classes: 0 for setosa, 1 for versicolor, and 2
 The Iris dataset is often used as a starting point for learning and practicing various machine learning algorithms and techniques due to its simplicity and clarity.<br>
 ![51518iris img1](https://github.com/athirah-o/STQD6324_DataManagement_Assignment3/assets/152348953/023f8892-4055-4058-a3b7-091a96fd5d0e)
 
+### System Requirement
