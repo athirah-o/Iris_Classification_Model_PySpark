@@ -15,5 +15,9 @@ In windows:
 4. Install winutils.exe<br>
 
 In conda environment (since we will use Jupyter Notebook to run PySpark):
-1. Install PySpark in conda environment
-2. Install FindSpark in conda environment
+1. Install PySpark 
+2. Install FindSpark 
+### Results and Discussions:
+Include in the python notebook together with the code.
+### Conclusion:
+Based on the evaluation metrics (accuracy, precision, recall and F1), all three models exhibits great model performance albeit logistic regression perform slightly better than random forest and decision tree model. The similar performance shown by random forest and decision tree model might suggest that the dataset may not exhibit complexities that benefit from the ensemble approach of Random Forest. It could be relatively straightforward with well-separated features that are easily classified by both tree-based models.
