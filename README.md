@@ -1,5 +1,4 @@
-# STQD6324_DataManagement_Assignment3
-## Classification Model using PySpark with Iris Dataset
+# Classification Model using PySpark with Iris Dataset
 ### Project Objective:
 To perform classification models (**Random Forest, Decision Tree and Logistic Regression**) on Iris dataset by leveraging PySpark MLlib library.
 ### About Iris Dataset:
